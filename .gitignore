@@ -11,3 +11,7 @@ Thumbs.db
 *.log*
 node_modules/
 reports/
+
+# Папка с собранными файлами проекта
+build/
+dist/
